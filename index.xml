@@ -6,7 +6,16 @@
     <description>Recent content on xmore&#39;s blog</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 20:00:00 +0800</lastBuildDate>
     <atom:link href="https://xmore2046.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试文章</title>
+      <link>https://xmore2046.github.io/posts/test-post/</link>
+      <pubDate>Tue, 22 Jul 2025 20:00:00 +0800</pubDate>
+      <guid>https://xmore2046.github.io/posts/test-post/</guid>
+      <description>&lt;p&gt;这是我的第一篇测试博客，用于部署验证。
+20250722
+duiyefou xiankankan&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
