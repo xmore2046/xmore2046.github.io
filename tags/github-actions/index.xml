@@ -18,5 +18,22 @@
 &lt;p&gt;特此记录，作为这个博客全新的起点。未来，我将在这里分享更多的技术心得与折腾记录。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hello World, 重新出发！✨&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>🎉 终于搞定了！我的第二篇自动化部署测试</title>
+      <link>https://xmore-web.204680.xyz/posts/second-test/</link>
+      <pubDate>Sat, 20 Apr 2024 10:00:00 +0800</pubDate>
+      <guid>https://xmore-web.204680.xyz/posts/second-test/</guid>
+      <description>&lt;p&gt;哈喽！这是我的第二篇测试文章。✌️&lt;/p&gt;
+&lt;p&gt;经历了前面的一系列折腾，我终于跑通了从本地搭建。现在，我的博客已经能够全自动丝滑更新了！&lt;/p&gt;
+&lt;h3 id=&#34;-这套现代化的博客部署方案真的非常棒&#34;&gt;💡 这套现代化的博客部署方案真的非常棒：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Hugo&lt;/strong&gt;：静态网页，编译速度几乎是秒出。&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;PaperMod&lt;/strong&gt;：极其轻量、优雅的主题，原生支持我最爱的夜间模式。&lt;/li&gt;
+&lt;li&gt;🤖 &lt;strong&gt;GitHub Actions&lt;/strong&gt;：告别繁琐的手动打包上传。&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;自定义域名&lt;/strong&gt;：专属访问地址。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以后我只需要在本地用 Markdown 愉快地写文章，然后敲几行简单的命令：&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
